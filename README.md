@@ -2,6 +2,8 @@
 
 This a dump of resources on bitsets and bitset manipulation in various programming languages. The original purpose was to help design a specification for a Fortran bitset type and to find some code and usage examples to motivate the development of Fortran bitsets.
 
+For a related discussion on designing a Fortran bitset type see https://github.com/fortran-lang/stdlib/issues/221
+
 ## C and C++
 
 * [Is there any advantage to c-style bit manipulation over std::bitset?](https://softwareengineering.stackexchange.com/questions/284160/is-there-any-advantage-to-c-style-bit-manipulation-over-stdbitset)
