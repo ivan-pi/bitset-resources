@@ -36,6 +36,8 @@ For a related discussion on designing a Fortran bitset type see https://github.c
 * [QBitArray](https://doc.qt.io/archives/qt-4.8/qbitarray.html)
 * [Bit Manipulation Libraries (Michael Dipperstein)](http://michael.dipperstein.com/bitlibs/) (also contains usage example for different encodings)
 * [BitArray32 and BitArray64](https://www.jacksondunstan.com/articles/5126) (C#)
+* [Bitwise Operators in C](http://www2.mta.ac.il/~hbinsky/c%20content/Bits.pdf)
+* [TBitArray (Unreal Engine)](https://docs.unrealengine.com/en-US/API/Runtime/Core/Containers/TBitArray/index.html)
 
 ## D
 
@@ -81,6 +83,7 @@ For a related discussion on designing a Fortran bitset type see https://github.c
 * [Is there a builtin bitset that's similar to the std::bitset from C++?](https://stackoverflow.com/questions/34496234/is-there-a-builtin-bitset-thats-similar-to-the-stdbitset-from-c/34496589)
 * [BitManipulation (Python Wiki)](https://wiki.python.org/moin/BitManipulation)
 * [Utility Functions for Handling Bit Masks and Mask Arrays (astropy)](https://docs.astropy.org/en/stable/nddata/bitmask.html)
+* [Bloom filters, using bit arrays for recommendations, caches and Bitcoin](https://bart.degoe.de/bloom-filters-bit-arrays-recommendations-caches-bitcoin/)
 
 
 ## Rust
