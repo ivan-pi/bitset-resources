@@ -29,6 +29,13 @@ For a related discussion on designing a Fortran bitset type see https://github.c
 * [Optimising DP using bitset in C++](https://codeforces.com/blog/entry/45576)
 * [Comparing two bitstrings](http://www.thijsjanzen.nl/Old/bitcomparison.shtml)
 * [Performance of C++ bit-vector implementations](https://www.researchgate.net/publication/220803585_Performance_of_C_bit-vector_implementations)
+* [cplusplus.com - std::bitset](http://www.cplusplus.com/reference/bitset/bitset/)
+* [cppreference.com - std::bitset](https://en.cppreference.com/w/cpp/utility/bitset)
+* [String Matching using Bitset](https://iq.opengenus.org/string-matching-using-bitset/)
+* [BitArray (C bit struct and methods)](https://github.com/noporpoise/BitArray)
+* [QBitArray](https://doc.qt.io/archives/qt-4.8/qbitarray.html)
+* [Bit Manipulation Libraries (Michael Dipperstein)](http://michael.dipperstein.com/bitlibs/) (also contains usage example for different encodings)
+* [BitArray32 and BitArray64](https://www.jacksondunstan.com/articles/5126) (C#)
 
 ## D
 
@@ -73,6 +80,8 @@ For a related discussion on designing a Fortran bitset type see https://github.c
 * [Does Python have a bitfield type?](https://stackoverflow.com/questions/142812/does-python-have-a-bitfield-type)
 * [Is there a builtin bitset that's similar to the std::bitset from C++?](https://stackoverflow.com/questions/34496234/is-there-a-builtin-bitset-thats-similar-to-the-stdbitset-from-c/34496589)
 * [BitManipulation (Python Wiki)](https://wiki.python.org/moin/BitManipulation)
+* [Utility Functions for Handling Bit Masks and Mask Arrays (astropy)](https://docs.astropy.org/en/stable/nddata/bitmask.html)
+
 
 ## Rust
 
@@ -88,3 +97,12 @@ For a related discussion on designing a Fortran bitset type see https://github.c
 * [Bitwise operation (Wikipedia)](https://en.wikipedia.org/wiki/Bitwise_operation)
 * [Hamming weight (Wikipedia)](https://en.wikipedia.org/wiki/Hamming_weight)
 * [How to Use Bitwise Operators](https://medium.com/better-programming/how-to-use-bitwise-operators-90cd7a3a0fd7)
+* [The Aggregate Magic Algorithms](http://aggregate.org/MAGIC/) (contains numerous low-level bit algorithms)
+* [Interesting use cases for JavaScript bitwise operators](https://blog.logrocket.com/interesting-use-cases-for-javascript-bitwise-operators/) (contains example of storing an RGB color triplet as a bit vector)
+* [Mastering Perl - Chapter 16. Working with Bits](https://www.oreilly.com/library/view/mastering-perl/9780596527242/ch16.html) (contains nice examples about DNA and sudoku puzzles)
+* [Unix Review Column 18 (January 1998)](http://www.stonehenge.com/merlyn/UnixReview/col18.html)
+* [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
+* [Working with Bytes](https://www.thethingsnetwork.org/docs/devices/bytes.html) (framework for IoT)
+* [Smart way of storing data: Let’s talk about bit packing, deduplication and many more](https://towardsdatascience.com/smart-way-of-storing-data-d22dd5077340)
+* [Save space with bit arrays](https://www.perl.com/article/save-space-with-bit-arrays/)
+* [Bit arrays and bit operations in the Linux kernel](https://0xax.gitbooks.io/linux-insides/content/DataStructures/linux-datastructures-3.html)
